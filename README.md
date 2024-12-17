@@ -67,4 +67,5 @@ The Xitcoin brand palette includes the following colors. Use them to maintain a 
 --Silver-light: ##FC8D0708;
 --galactic-copper: #D0D5DBD6;
 --kcalb: #202122EB;
+--white: #fff;
 --void-gray: #54545c;

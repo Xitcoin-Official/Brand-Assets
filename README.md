@@ -40,7 +40,7 @@ The files are available in the following formats:
 - **PNG** (Portable Network Graphics)
 
 ### **Available Sizes**
-Each logo and icon is provided in the following sizes:
+Each logo and icon is provided in the following sizes on Px:
 - **3000 x 3000**
 - **512 x 512**
 - **300 x 300**

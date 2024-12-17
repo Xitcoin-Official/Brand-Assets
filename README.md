@@ -60,12 +60,11 @@ The Xitcoin brand palette includes the following colors. Use them to maintain a 
 ```css
 --nebula-gray: #53585f;
 --supernova-orange: #FC8D07;
+--cosmic: #007BFF;
 --stellar-white: #F6F0F0;
 --orbit-gold: #DB7A04;
---cosmic: #007BFF;
 --lunar-sand: #3786CE;
---Silver-light: ##FC8D0708;
+--silver-light: ##FC8D0708;
 --galactic-copper: #D0D5DBD6;
 --kcalb: #202122EB;
 --white: #fff;
---void-gray: #54545c;

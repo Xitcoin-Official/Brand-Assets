@@ -52,19 +52,12 @@ Each logo and icon is provided in the following sizes on Px:
 
 ---
 
-## 🎨 Official Color Palette
+## 🎨 Official Color Palette Of the Website
 
 The Xitcoin brand palette includes the following colors. Use them to maintain a consistent visual identity.
 
 ### **CSS Variables**
 ```css
---nebula-gray: #53585f;
---supernova-orange: #FC8D07;
---cosmic: #007BFF;
---stellari: #FFFFFFBF;
---orbit-gold: #DB7A04C9;
---lunar-sand: #3786CE;
---silver-light: ##FC8D0708;
---galactic-copper: #D0D5DBBF;
---kcalb: #202122EB;
---white: #fff;
+--nebula-gray: #53585F
+--supernova-orange: #FC8D07
+--white: #FFFFFF
